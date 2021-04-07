@@ -20,15 +20,18 @@ for backend and JavaScript for frontend, with the use of some Frameworks such as
 I have been a software developer consultant, IT external auditor with more than 10 public and private companies audited in the 
 IT area and I have provided IT support in several national and international institutions.
 
-I have worked for several semesters as a professor at different universities, I have been invited to advise thesis for undergraduate 
-degrees and I have also represented the Society of Engineers of Bolivia on several occasions in the final defenses of Degree Projects and Thesis.
+I have worked for several semesters as a professor at different universities, I have been invited to advise thesis for 
+undergraduate degrees and I have also represented the Society of Engineers of Bolivia on several occasions in the final defenses 
+of Degree Projects and Thesis.
 
-I have created and developed virtual courses at a technical level for INFOCAL, having been published through the newspaper La Razón several years ago.
+I have created and developed virtual courses at a technical level for INFOCAL, having been published through the newspaper 
+La Razón several years ago.
 
-I am the manager and founder of the software and intelligent solutions development company, BearSoft, with several projects developed for 
-different national and international companies.
+I am the manager and founder of the software and intelligent solutions development company, BearSoft, with several projects developed 
+for different national and international companies.
 
-Currently creator of the SmartDecisions platform, developed in JavaScript and NodeJS working to provide REST API services for companies in the United States 
-(EFFEX and BOXTRIBE). In Bolivia I also have a platform for system integration of AGETIC with supermarkets (FIDALGA and KETAL) for payment of subsidies and 
-double bonus. More information about me and BearSoft, can be seen in my web portal http://bearsoft.com.bo.
+Currently creator of the SmartDecisions platform, developed in JavaScript and NodeJS working to provide REST API services for companies 
+in the United States (EFFEX and BOXTRIBE). In Bolivia I also have a platform for system integration of AGETIC with supermarkets 
+(FIDALGA and KETAL) for payment of subsidies and double bonus. More information about me and BearSoft, can be seen in my web portal 
+[BearSoft](http://bearsoft.com.bo)
 ```

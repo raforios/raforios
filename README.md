@@ -22,9 +22,4 @@ I am the manager and founder of the software and intelligent solutions developme
 
 Currently creator of the SmartDecisions platform, developed in JavaScript and NodeJS working to provide REST API services for companies in the United States (EFFEX and BOXTRIBE). In Bolivia I also have a platform for system integration of AGETIC with supermarkets (FIDALGA and KETAL) for payment of subsidies and double bonus. More information about me and BearSoft, can be seen in my web portal http://bearsoft.com.bo.
 ![image](https://user-images.githubusercontent.com/8106294/113872628-0a57c900-9782-11eb-9961-ca0c5c44e982.png)
-
-
-<!---
-raforios/raforios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```

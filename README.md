@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and data analitics
 - 💞️ I’m looking to collaborate on Node, JavaScript, Software development
 - 📫 How to reach me: raforios@gmail.com
-```
+
 I am a Systems Engineer graduated in 1999, graduated with an academic diploma in 2000 and a degree in national 
 provision processed in 2004.
 
@@ -34,4 +34,3 @@ Currently creator of the SmartDecisions platform, developed in JavaScript and No
 in the United States (EFFEX and BOXTRIBE). In Bolivia I also have a platform for system integration of AGETIC with supermarkets 
 (FIDALGA and KETAL) for payment of subsidies and double bonus. More information about me and BearSoft, can be seen in my web portal 
 [BearSoft](http://bearsoft.com.bo)
-```

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Ríos Bascón</h1>
 <h3 align="center">Backend Developer, DevOps, Data Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raforios&label=Profile%20views&color=0e75b6&style=flat" alt="raforios" /> </p>
-
-
 ## 💫 Facts:
 - 🔭 I’m currently working on [smartbear-api](https://api.raforios.com/api/v1)
 - 🌱 I’m currently learning **Machine Learning, Data Analysis, Prediction and Data Projection and Optimization Algorithms**

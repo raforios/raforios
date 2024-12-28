@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Ríos Bascón</h1>
 <h3 align="center">Backend Developer, DevOps, Data Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raforios&label=Profile%20views&color=0e75b6&style=flat" alt="raforios" /> </p>
+
+
 ## 💫 Facts:
 - 🔭 I’m currently working on [smartbear-api](https://api.raforios.com/api/v1)
 - 🌱 I’m currently learning **Machine Learning, Data Analysis, Prediction and Data Projection and Optimization Algorithms**
@@ -31,7 +34,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 📊 Machine Learning:
+### 🗂️ Machine Learning:
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 ### 🛠️ Tools:
@@ -39,44 +42,25 @@
 
 ## 🙋🏻‍♂️ About Me:
 
-> I have been a Systems Engineer since 2000. I have a couple of
-graduates in Information Technology and Higher Education, also,
-I have a master’s degree in Flexible Intelligent Systems. I have
-taken continuous updating, learning, and training courses, both
-face-to-face and virtual, throughout my 20 years of professional
-life.
+> I have been a Systems Engineer since 2000. I have a couple of graduates in Information Technology and Higher Education, also, I have a master’s degree in Flexible Intelligent Systems. I have taken continuous updating, learning, and training courses, both face-to-face and virtual, throughout my 20 years of professional life.
 
-> I have been a full stack developer for more than 20 years, the
-programming language that I know the most (advanced - expert
-level) and that I have a lot of experience with is JavaScript, I also
-know Java, C, and Python, (intermediate - advanced level), I
-have knowledge of Golang (basic - intermediate level), in
-addition to other tools such as Shell Script, HTML, CSS, Docker.
+> I have been a full stack developer for more than 20 years, the programming language that I know the most (advanced - expert level) and that I have a lot of experience with is JavaScript, I also know Java, C, and Python, (intermediate - advanced level), I have knowledge of Golang (basic - intermediate level), in addition to other tools such as Shell Script, HTML, CSS, Docker.
 
-> I have worked as DevOps and Cloud Computing in AWS, using
-the following components EC2, ECR, ECS, LAMBDA
-SERVICES, API GATEWAY, S3, SQS, RDS, Elastic IP and load
-balancers and others.
-I also have experience with GCP and migrating components from
-AWS to GCP.
+> I have worked as DevOps and Cloud Computing in AWS, using the following components EC2, ECR, ECS, LAMBDA SERVICES, API GATEWAY, S3, SQS, RDS, Elastic IP and load balancers and others.
 
-> I have a lot of experience in administration and configuration of
-Linux operating systems in their Debian, Ubuntu, and CentOS
-versions.
+> I also have experience with GCP and migrating components from AWS to GCP.
 
-> Regarding databases, MySQL (advanced level - expert),
-PostgreSQL (intermediate level - advanced), MongoDB
-(intermediate level), DynamoDB (intermediate level) a little SQL
-Server. I have worked as an ORACLE DBA and server
-administrator.
+> I have a lot of experience in administration and configuration of Linux operating systems in their Debian, Ubuntu, and CentOS versions.
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+> Regarding databases, MySQL (advanced level - expert), PostgreSQL (intermediate level - advanced), MongoDB (intermediate level), DynamoDB (intermediate level) a little SQL Server. I have worked as an ORACLE DBA and server administrator.
+
+## ✍🏼 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raforios&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raforios&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raforios&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=raforios&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raforios&theme=light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raforios&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raforios&limit=5&theme=default&combine_all_yearly_contributions=true)
